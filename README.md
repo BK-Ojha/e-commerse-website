@@ -67,9 +67,7 @@ An Ecommerce website is an online platform that allows businesses and individual
     
 
     
-###### Steps to run project
-    1) Connect "Mondodb" database 
-    2) run command "node app.js" (be sure you are in server's path)
-    3) run command "npm start" (be sure you are in "client" path)
+###### How to run project
+Open the index.html file in a browser.
 
     
